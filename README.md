@@ -47,6 +47,6 @@ This Power BI dashboard provides a comprehensive overview of Amazon sales data a
 •	Excel as data source 
 
 # 🔗 Useful Links
- * Screenshot - (https://github.com/AKM-1996/Project-Amazon-Data-analysis-Dashboard/blob/main/Screenshot%202025-09-06%20195126.png)
+ * Screenshot - (https://github.com/AKM-1996/Project-Amazon-Data-analysis-Dashboard/blob/main/Screenshot%202025-10-16%20110910.png)
  * Dashboard - (https://github.com/AKM-1996/Project-Amazon-Data-analysis-Dashboard/blob/main/Amazon%20sales%20report%20dashboard.pbix)
 
