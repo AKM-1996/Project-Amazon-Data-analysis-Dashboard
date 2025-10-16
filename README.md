@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Performance Dashboard (Power BI)
 
-This Power BI dashboard provides a comprehensive overview of Amazon sales data across India for the period **18-Apr-2022 to 30-Apr-2022**, with a total sales volume of **₹11.58M**. Designed for quick insights and operational decision-making, it visualizes key metrics across fulfillment, courier status, product categories, and regional performance.
+This Power BI dashboard provides a comprehensive overview of Amazon sales data across India for the period **18-Apr-2022 to 30-Apr-2022**, with a total sales volume of **11.58M**. Designed for quick insights and operational decision-making, it visualizes key metrics across fulfillment, courier status, product categories, and regional performance.
 
 # 🔍 Key Features
 
